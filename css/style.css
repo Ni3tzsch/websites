@@ -1,0 +1,37 @@
+
+nav.menu-nav ul li.btn{
+	display: inline-block;
+}
+nav.menu-nav ul li.btn{
+	list-style-type: none;
+
+}
+
+nav.menu-nav ul li.btn a{
+	color: red;
+	text-decoration: none;
+}
+
+
+/*p.welcom{
+	color: #fff;
+	background-color: #A43333
+}
+
+p.vivacss{
+	color: black;
+	font-weight: bold
+}
+ body{
+	background-color: #777
+}	
+
+h1.headline{
+	font-size: 50px;
+	padding-left: 200px;
+}
+
+a{
+	color: #E21C44;
+	opacity: 0.7;
+}*/
